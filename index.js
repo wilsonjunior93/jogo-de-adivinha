@@ -1,7 +1,7 @@
 let computerNumber;
 let userNumbers = [];
 let attempts = 0;
-let maxguesses = 7;
+let maxguesses = 4;
 
 function novoJogo() {
    window.location.reload()
